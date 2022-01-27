@@ -6,7 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+Web+Developer;I'm+a+Programmer;I'm+also+excited+in+learning+new+things;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
 
-
+<img width="380" align="right" alt="Github"
+src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
+/> 
 
 <p align="left"> <a href="https://twitter.com/_nishantsinghal" target="blank"><img src="https://img.shields.io/twitter/follow/_nishantsinghal?logo=twitter&style=for-the-badge" alt="_nishantsinghal" /></a> </p>
 

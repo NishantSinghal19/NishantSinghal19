@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+a+Web+Developer;I'm+a+Programmer;I'm+also+excited+in+learning+new+things;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
 
-<img width="380" align="right" alt="Github"
+<img width="380" align="center" alt="Github"
 src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Resources/developers-gif-showcase.gif" 
 /> 
 

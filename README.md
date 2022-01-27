@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img 
     src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" width="30px">,  I'm Nishant Singhal</h1>
-<h3 align="center">A passionate web developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+Web+Developer;I'm+a+Programmer;I'm+also+excited+in+learning+new+things;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantsinghal19&label=Profile%20views&color=0e75b6&style=flat" alt="nishantsinghal19" /> </p>
 

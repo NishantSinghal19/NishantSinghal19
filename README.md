@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=%23F7E727&center=true&width=1000&lines=I'm+an+Web+Developer;I'm+a+Programmer;I'm+also+excited+in+learning+new+things;I'm+a+Learning+Enthusiast;I'm+an+Explorer)](https://git.io/typing-svg)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantsinghal19" alt="nishantsinghal19" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/_nishantsinghal" target="blank"><img src="https://img.shields.io/twitter/follow/_nishantsinghal?logo=twitter&style=for-the-badge" alt="_nishantsinghal" /></a> </p>
 
@@ -44,5 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantsinghal19&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="nishantsinghal19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsinghal19&theme=highcontrast" alt="nishantsinghal19" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantsinghal19" alt="nishantsinghal19" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantsinghal19&label=Profile%20views&color=0e75b6&style=flat" alt="nishantsinghal19" /> </p>

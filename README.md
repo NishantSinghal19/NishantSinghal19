@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Re
 
 - 📫 How to reach me **nishantsinghal900@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15RLYT4PAiutsw94V4PY5bM53KeJ-LGbN/view?usp=sharing](https://drive.google.com/file/d/15RLYT4PAiutsw94V4PY5bM53KeJ-LGbN/view?usp=sharing)
+- 📄 Know about my experiences [https://linktr.ee/NishantSinghal](https://linktr.ee/NishantSinghal)
 
 - ⚡ Fun fact **Marvel Fan**
 

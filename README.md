@@ -14,15 +14,15 @@ src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Re
 
 - 🌱 I’m currently learning **Flutter & DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NishantSinghal19](https://github.com/NishantSinghal19)
+- 👨‍💻 All of my projects are available at [here](https://github.com/NishantSinghal19)
 
-- 📝 I regularly write articles on [https://nishantsinghal.hashnode.dev/](https://nishantsinghal.hashnode.dev/)
+- 📝 I regularly write articles on [here](https://nishantsinghal.hashnode.dev/)
 
 - 💬 Ask me about **Angular , NodeJS**
 
 - 📫 How to reach me **nishantsinghal900@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/NishantSinghal](https://linktr.ee/NishantSinghal)
+- 📄 Know about my experiences [here](https://linktr.ee/NishantSinghal)
 
 - ⚡ Fun fact **Marvel Fan**
 

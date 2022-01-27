@@ -7,7 +7,7 @@
 
 
 <img width="380" align="right" alt="Github"
-src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
+src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Resources/developer.gif" 
 /> 
 
 <p align="left"> <a href="https://twitter.com/_nishantsinghal" target="blank"><img src="https://img.shields.io/twitter/follow/_nishantsinghal?logo=twitter&style=for-the-badge" alt="_nishantsinghal" /></a> </p>

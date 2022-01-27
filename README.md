@@ -41,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantsinghal19&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="nishantsinghal19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsinghal19&" alt="nishantsinghal19" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsinghal19&theme=highcontrast)" alt="nishantsinghal19" /></p>

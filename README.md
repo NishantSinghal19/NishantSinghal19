@@ -7,7 +7,7 @@
 
 
 <img width="380" align="right" alt="Github"
-src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Resources/developer.gif" 
+src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Resources/developers-gif-showcase.gif" 
 /> 
 
 - 🔭 I’m currently working on [Pathlaws](https://pathlaws.com/)

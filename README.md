@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img 
-    src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Resources/wave.gif" width="30px" height="10px">, 
+    src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Resources/wave.gif" width="30px" height="30px">, 
     I'm Nishant Singhal
 </h1>
 

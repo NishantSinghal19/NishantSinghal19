@@ -12,7 +12,7 @@ src="https://raw.githubusercontent.com/NishantSinghal19/NishantSinghal19/main/Re
 
 - 🔭 I’m currently working on GSoC Project TaskWarrior in CCExtractor Development
 
-- 🔭 I’m currently working on [Pathlaws](https://pathlaws.com/)
+- 🔭 I was working on [Pathlaws](https://pathlaws.com/)
 
 - 🌱 I’m currently learning **Flutter & DSA**
 
